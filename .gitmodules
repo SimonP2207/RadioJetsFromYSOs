@@ -1,0 +1,3 @@
+[submodule "radiopy"]
+	path = radiopy
+	url = https://github.com/SimonP2207/radiopy.git
