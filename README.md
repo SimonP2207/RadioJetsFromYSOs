@@ -1,6 +1,13 @@
 # Radio Jets from Young Stellar Objects
 The primary purpose of this repository is to store data, images and scripts pertaining to publications studying the radio emission associated with the ionised jets of young stellar objects.
 
+## Summary
+This repository contains the data for the following publications:
+- [Purser, S. J. D., Lumsden, S. L., Hoare, M. G., et al. 2016, MNRAS, 460, 1039](https://ui.adsabs.harvard.edu/abs/2016MNRAS.460.1039P/abstract)
+- Purser, S. J. D. , Lumsden, S. L., Hoare, M. G., Kurtz, S. , 2020 (submitted)
+
+For each of those works listed above, image .fits files for each object at each observed frequency, .csv/.fits tables for results and associated scripts for ease of data import are included. For a full description of the repository's directory tree, please see below.
+
 ## Contents
 Below is the directory tree for this repository with folder/file descriptions as comments:
 ```perl
