@@ -3,10 +3,10 @@ The primary purpose of this repository is to store data, images and scripts pert
 
 ## Summary
 This repository contains the data for the following publications:
-- [Purser, S. J. D., Lumsden, S. L., Hoare, M. G., et al. 2016, MNRAS, 460, 1039](https://ui.adsabs.harvard.edu/abs/2016MNRAS.460.1039P/abstract)
-- [Purser, S. J. D., Lumsden, S. L., Hoare, M. G., Kurtz, S., 2021, MNRAS, 504, 338](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..338P/abstract)
+- [Purser, S. J. D., Lumsden, S. L., Hoare, M. G., et al. 2016, MNRAS, 460, 1039](https://ui.adsabs.harvard.edu/abs/2016MNRAS.460.1039P/abstract) (corresponding directory in the file structure below is `ATCASurveyPurser2016`)
+- [Purser, S. J. D., Lumsden, S. L., Hoare, M. G., Kurtz, S., 2021, MNRAS, 504, 338](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..338P/abstract) (corresponding directory in the file structure below is `VLASurveyPurser2020`)
 
-For each of those works listed above, image .fits files for each object at each observed frequency, .csv/.fits tables for results and associated scripts for ease of data import are included. For a full description of the repository's directory tree, please see below.
+For each of those works listed above, image .fits files for each object at each observed frequency, .csv/.fits tables for results and associated scripts for ease of data import are included. Should you use any of the data below, please cite the relevant work above. For a full description of the repository's directory tree, please see below.
 
 ## Contents
 Below is the directory tree for this repository with folder/file descriptions as comments:
