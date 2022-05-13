@@ -46,6 +46,7 @@ RadioJetsFromYSOs/              # Respository's parent directory
     │       ├───G***.****.fits  # 22.8GHz image for G***.***.fits where ***.**** is the galactic l-coordinate
     │       └───...             # A total of 40 22.8GHz .fits images are present in this directory
     └───results/                # Contains image analysis results and associated scripts
+        └───tables/             # Contains all image analysis results in various table formats
             ├───5ghz.csv       # Table of 5.5GHz results in .csv format
             ├───5ghz.fits      # Table of 5.5GHz results in .fits table format
             ├───9ghz.csv       # Table of 9GHz results in .csv format
