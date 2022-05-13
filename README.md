@@ -18,10 +18,10 @@ RadioJetsFromYSOs/              # Respository's parent directory
 │   ├───fits/                   # Contains all clean images in .fits format
 │   │   ├───C-band/             # Directory for 5.8GHz images
 │   │   │   ├───G***.****.fits  # C-band image for G***.***.fits where ***.**** is the galactic l-coordinate
-│   │   │   └───...             # A total of XX C-band .fits images are present in this directory
+│   │   │   └───...             # A total of 64 C-band .fits images are present in this directory
 │   │   └───Q-band/             # Directory for 44GHz images
 │   │       ├───G***.****.fits  # Q-band image for G***.***.fits where ***.**** is the galactic l-coordinate
-│   │       └───...             # A total of XX Q-band .fits images are present in this directory
+│   │       └───...             # A total of 43 Q-band .fits images are present in this directory
 │   └───results/                # Contains image analysis results and associated scripts
 │       ├───data.py             # Python script which imports results as pandas.DataFrame instance
 │       └───tables/             # Contains all image analysis results in various table formats
@@ -32,5 +32,19 @@ RadioJetsFromYSOs/              # Respository's parent directory
 │           ├───ancillary.csv   # Table of supporting data in .csv format
 │           └───ancillary.fits  # Table of supporting data in .fits table format
 └───ATCASurveyPurser2016/       # Directory containing material from Purser et al. (2016)
-    └───(empty)                 # In development as of 20/08/2020
+    ├───fits/                   # Contains all clean images in .fits format
+    │   ├───5500/               # Directory for 5.5GHz images
+    │   │   ├───G***.****.fits  # 5.5GHz image for G***.***.fits where ***.**** is the galactic l-coordinate
+    │   │   └───...             # A total of 34 5.5GHz .fits images are present in this directory
+    │   ├───9000/               # Directory for 9GHz images
+    │   │   ├───G***.****.fits  # 9GHz image for G***.***.fits where ***.**** is the galactic l-coordinate
+    │   │   └───...             # A total of 34 9GHz .fits images are present in this directory
+    │   ├───17000/              # Directory for 17GHz images
+    │   │   ├───G***.****.fits  # 17GHz image for G***.***.fits where ***.**** is the galactic l-coordinate
+    │   │   └───...             # A total of 40 17GHz .fits images are present in this directory
+    │   └───22800/              # Directory for 22.8GHz images
+    │       ├───G***.****.fits  # 22.8GHz image for G***.***.fits where ***.**** is the galactic l-coordinate
+    │       └───...             # A total of 40 22.8GHz .fits images are present in this directory
+    └───results/                # Contains image analysis results and associated scripts
+        └───(empty)             # In development as of 13/05/2022
 ```
